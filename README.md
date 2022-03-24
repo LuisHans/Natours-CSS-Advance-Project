@@ -1,4 +1,4 @@
-# Natours-CSS-Advance-Project
+# Natours CSS Advance Project
 
 This project is an student project, developed from the course:
 
